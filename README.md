@@ -8,7 +8,7 @@ This project was developed as part of a college assignment, using the **UCI Stud
 
 ## 🧪 Models Trained and Compared
 
-- 🌲 **Random Forest**
+- 🌲 **Random Forest: Best Model 🏆** 
 - 🌿 **Decision Tree**
 - 📊 **Naive Bayes**
 
