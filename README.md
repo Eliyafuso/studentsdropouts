@@ -47,3 +47,7 @@ This project was developed as part of a college assignment, using the **UCI Stud
 
 This project reinforced the value of **predictive analytics** in education. Identifying students at risk of dropping out enables early intervention and tailored support—potentially changing outcomes for the better.
 
+---
+
+## Disclaimer
+This project is for viewing purposes only. Unauthorized copying, modification, or distribution of this work is strictly prohibited.
